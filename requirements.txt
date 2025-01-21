@@ -1,6 +1,6 @@
-streamlit==0.84.2
-pandas==1.3.3  # Compatível com Streamlit 0.84.2
-numpy==1.19.5  # Ajustado para evitar incompatibilidade
+streamlit==1.25.0
+pandas==1.3.3 
+numpy==1.19.5
 plotly_express==0.4.1
 openpyxl==3.0.7
 beautifulsoup4==4.8.0
